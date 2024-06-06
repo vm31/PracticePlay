@@ -1,6 +1,6 @@
 {
     "default":{
-        "path":[
+        "paths":[
             "src/test/features/"
         ]
     }
